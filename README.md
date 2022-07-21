@@ -1,6 +1,6 @@
 # leet-code-problems
 
-| S.No | Problem Name | Problem URL | solution URL | 
+| S.No | Problem Name | Problem URL | Solution URL | 
 | :--- | :----------- | :---------- | :----------- | 
 | 13 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/13.%20Roman%20to%20Integer.py |
 | 21 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py |
