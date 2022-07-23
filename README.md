@@ -13,7 +13,7 @@
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
 | 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.py |
-| 704 | Binary Search | https://leetcode.com/problems/binary-search/ | |
+| 704 | Binary Search | https://leetcode.com/problems/binary-search/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/704.%20Binary%20Search.py |
 | 724 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/724.%20Find%20Pivot%20Index.py |
 | 876 | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/876.%20Middle%20of%20the%20Linked%20List.py |
 | 1480 | Running Sum of 1d Array | https://leetcode.com/problems/running-sum-of-1d-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1480.%20Running%20Sum%20of%201d%20Array.py |
