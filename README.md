@@ -6,7 +6,7 @@
 | 21 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py |
 | 86 | Partition List | https://leetcode.com/problems/partition-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/86.%20Partition%20List.py |
 | 92 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/92.%20Reverse%20Linked%20List%20II.py |
-| 102 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/ | |
+| 102 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.py |
 | 121 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py |
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
