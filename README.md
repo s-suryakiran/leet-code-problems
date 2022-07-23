@@ -12,7 +12,7 @@
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
-| 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | |
+| 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.py |
 | 704 | Binary Search | https://leetcode.com/problems/binary-search/ | |
 | 724 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/724.%20Find%20Pivot%20Index.py |
 | 876 | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/876.%20Middle%20of%20the%20Linked%20List.py |
