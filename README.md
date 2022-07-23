@@ -11,6 +11,7 @@
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
+| 278 | First Bad Version | https://leetcode.com/problems/first-bad-version/ | |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
 | 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.py |
