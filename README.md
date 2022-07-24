@@ -11,6 +11,7 @@
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
+| 240 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii/ | |
 | 278 | First Bad Version | https://leetcode.com/problems/first-bad-version/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/278.%20First%20Bad%20Version.py |
 | 315 | Count of Smaller Numbers After Self | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
