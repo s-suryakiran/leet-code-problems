@@ -4,7 +4,7 @@
 | :--- | :----------- | :---------- | :----------- | 
 | 13 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/13.%20Roman%20to%20Integer.py |
 | 21 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py |
-| 34 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ |
+| 34 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py |
 | 86 | Partition List | https://leetcode.com/problems/partition-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/86.%20Partition%20List.py |
 | 92 | Reverse Linked List II | https://leetcode.com/problems/reverse-linked-list-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/92.%20Reverse%20Linked%20List%20II.py |
 | 102 | Binary Tree Level Order Traversal | https://leetcode.com/problems/binary-tree-level-order-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.py |
