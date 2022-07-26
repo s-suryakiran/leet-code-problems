@@ -21,7 +21,7 @@ class Solution:
                 return root
         return None
 
-    # Second solution    
+# Second solution    
 #         if (root == None):
 #             return None
 #         if (root.val == p.val) or (root.val == q.val):
