@@ -9,18 +9,33 @@ class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         if (root == None):
             return None
-        if (root.val == p.val) or (root.val == q.val):
-            return root
+        maxValue = max(p.val, q.val)
+        minValue = min(p.val, q.val)
         
-        l = self.lowestCommonAncestor(root.left, p, q)
-        r = self.lowestCommonAncestor(root.right, p, q)
+        while(root):
+            if (root.val < minValue):
+                root = root.right
+            elif (root.val > maxValue):
+                root = root.left
+            else:
+                return root
+        return None
+
+    # Second solution    
+#         if (root == None):
+#             return None
+#         if (root.val == p.val) or (root.val == q.val):
+#             return root
         
-        if(l == None and r == None):
-            return None
+#         l = self.lowestCommonAncestor(root.left, p, q)
+#         r = self.lowestCommonAncestor(root.right, p, q)
         
-        if(l != None and r != None):
-            return root
+#         if(l == None and r == None):
+#             return None
+        
+#         if(l != None and r != None):
+#             return root
                 
-        if(l != None):
-            return l
-        return r
+#         if(l != None):
+#             return l
+#         return r
