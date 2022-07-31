@@ -20,6 +20,7 @@
 | 240 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/240.%20Search%20a%202D%20Matrix%20II.py |
 | 242 | Valid Anagram | https://leetcode.com/problems/valid-anagram/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/242.%20Valid%20Anagram.py |
 | 278 | First Bad Version | https://leetcode.com/problems/first-bad-version/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/278.%20First%20Bad%20Version.py |
+| 307 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ | |
 | 315 | Count of Smaller Numbers After Self | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
