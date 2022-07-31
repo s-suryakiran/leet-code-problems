@@ -29,4 +29,5 @@
 | 724 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/724.%20Find%20Pivot%20Index.py |
 | 876 | Middle of the Linked List | https://leetcode.com/problems/middle-of-the-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/876.%20Middle%20of%20the%20Linked%20List.py |
 | 890 | Find and Replace Pattern | https://leetcode.com/problems/find-and-replace-pattern/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/890.%20Find%20and%20Replace%20Pattern.py |
+| 916 | Word Subsets | https://leetcode.com/problems/word-subsets/ | |
 | 1480 | Running Sum of 1d Array | https://leetcode.com/problems/running-sum-of-1d-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1480.%20Running%20Sum%20of%201d%20Array.py |
