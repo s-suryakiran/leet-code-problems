@@ -27,6 +27,7 @@
 | 378 | Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
+| 458 | Poor Pigs | https://leetcode.com/problems/poor-pigs/ | |
 | 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.py |
 | 704 | Binary Search | https://leetcode.com/problems/binary-search/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/704.%20Binary%20Search.py |
 | 724 | Find Pivot Index | https://leetcode.com/problems/find-pivot-index/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/724.%20Find%20Pivot%20Index.py |
