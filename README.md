@@ -21,6 +21,7 @@
 | 240 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/240.%20Search%20a%202D%20Matrix%20II.py |
 | 242 | Valid Anagram | https://leetcode.com/problems/valid-anagram/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/242.%20Valid%20Anagram.py |
 | 278 | First Bad Version | https://leetcode.com/problems/first-bad-version/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/278.%20First%20Bad%20Version.py |
+| 300 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/ | |
 | 307 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/307.%20Range%20Sum%20Query%20-%20Mutable.py |
 | 315 | Count of Smaller Numbers After Self | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py |
 | 377 | Combination Sum IV | https://leetcode.com/problems/combination-sum-iv/| https://github.com/s-suryakiran/leet-code-problems/blob/main/377.%20Combination%20Sum%20IV.py |
