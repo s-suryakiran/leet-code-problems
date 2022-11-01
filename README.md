@@ -18,6 +18,7 @@
 | 114 | Flatten Binary Tree to Linked List | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py |
 | 121 | Best Time to Buy and Sell Stock | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py |
 | 125 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/125.%20Valid%20Palindrome.py |
+| 141 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/ | |
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
