@@ -23,6 +23,7 @@
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
 | 226 | Invert Binary Tree | https://leetcode.com/problems/invert-binary-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/226.%20Invert%20Binary%20Tree.py |
+| 232 | Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/ | |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py |
 | 236 | Lowest Common Ancestor of a Binary Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py |
 | 240 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/240.%20Search%20a%202D%20Matrix%20II.py |
