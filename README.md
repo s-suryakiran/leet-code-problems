@@ -22,7 +22,7 @@
 | 125 | Valid Palindrome | https://leetcode.com/problems/valid-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/125.%20Valid%20Palindrome.py |
 | 141 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/141.%20Linked%20List%20Cycle.py |
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
-| 169 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | |
+| 169 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/169.%20Majority%20Element.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
 | 226 | Invert Binary Tree | https://leetcode.com/problems/invert-binary-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/226.%20Invert%20Binary%20Tree.py |
