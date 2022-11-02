@@ -35,6 +35,7 @@
 | 315 | Count of Smaller Numbers After Self | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py |
 | 377 | Combination Sum IV | https://leetcode.com/problems/combination-sum-iv/| https://github.com/s-suryakiran/leet-code-problems/blob/main/377.%20Combination%20Sum%20IV.py |
 | 378 | Kth Smallest Element in a Sorted Matrix | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py |
+| 383 | Ransom Note | https://leetcode.com/problems/ransom-note/ | |
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
 | 458 | Poor Pigs | https://leetcode.com/problems/poor-pigs/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/458.%20Poor%20Pigs.py |
