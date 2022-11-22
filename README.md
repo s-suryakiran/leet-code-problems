@@ -42,6 +42,7 @@
 | 392 | Is Subsequence | https://leetcode.com/problems/is-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/392.%20Is%20Subsequence.py |
 | 409 | Longest Palindrome | https://leetcode.com/problems/longest-palindrome/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/409.%20Longest%20Palindrome.py |
 | 458 | Poor Pigs | https://leetcode.com/problems/poor-pigs/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/458.%20Poor%20Pigs.py |
+| 543 | Diameter of Binary Tree | https://leetcode.com/problems/diameter-of-binary-tree/ | |
 | 589 | N-ary Tree Preorder Traversal | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.py |
 | 637 | Average of Levels in Binary Tree | https://leetcode.com/problems/average-of-levels-in-binary-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py |
 | 704 | Binary Search | https://leetcode.com/problems/binary-search/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/704.%20Binary%20Search.py |
