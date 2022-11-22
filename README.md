@@ -27,7 +27,7 @@
 | 169 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/169.%20Majority%20Element.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
-| 217 | Contains Duplicate | https://leetcode.com/problems/contains-duplicate/ | |
+| 217 | Contains Duplicate | https://leetcode.com/problems/contains-duplicate/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/217.%20Contains%20Duplicate.py |
 | 226 | Invert Binary Tree | https://leetcode.com/problems/invert-binary-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/226.%20Invert%20Binary%20Tree.py |
 | 232 | Implement Queue using Stacks | https://leetcode.com/problems/implement-queue-using-stacks/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/232.%20Implement%20Queue%20using%20Stacks.py |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py |
