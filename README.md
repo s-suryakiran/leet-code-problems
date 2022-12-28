@@ -59,4 +59,4 @@
 | 916 | Word Subsets | https://leetcode.com/problems/word-subsets/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/916.%20Word%20Subsets.py |
 | 1220 | Count Vowels Permutation | https://leetcode.com/problems/count-vowels-permutation/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1220.%20Count%20Vowels%20Permutation.py|
 | 1480 | Running Sum of 1d Array | https://leetcode.com/problems/running-sum-of-1d-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1480.%20Running%20Sum%20of%201d%20Array.py |
-| 2279 | Maximum Bags With Full Capacity of Rocks | https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/ | |
+| 2279 | Maximum Bags With Full Capacity of Rocks | https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.py |
