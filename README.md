@@ -4,6 +4,7 @@
 | :--- | :----------- | :---------- | :----------- | 
 | 1 | Two Sum | https://leetcode.com/problems/two-sum/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1.%20Two%20Sum.py |
 | 2 | Add Two Numbers | https://leetcode.com/problems/add-two-numbers/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/2.%20Add%20Two%20Numbers.py |
+| 9 | Palindrome Number | https://leetcode.com/problems/palindrome-number/description/ | |
 | 13 | Roman to Integer | https://leetcode.com/problems/roman-to-integer/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/13.%20Roman%20to%20Integer.py |
 | 20 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/20.%20Valid%20Parentheses.py |
 | 21 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py |
