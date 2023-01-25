@@ -39,7 +39,7 @@
 | 238 | Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/238.%20Product%20of%20Array%20Except%20Self.py |
 | 240 | Search a 2D Matrix II | https://leetcode.com/problems/search-a-2d-matrix-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/240.%20Search%20a%202D%20Matrix%20II.py |
 | 242 | Valid Anagram | https://leetcode.com/problems/valid-anagram/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/242.%20Valid%20Anagram.py |
-| 271 | Encode and Decode Strings | https://www.lintcode.com/problem/659/ | |
+| 271 | Encode and Decode Strings | https://www.lintcode.com/problem/659/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/271.%20Encode%20and%20Decode%20Strings.py |
 | 278 | First Bad Version | https://leetcode.com/problems/first-bad-version/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/278.%20First%20Bad%20Version.py |
 | 300 | Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/300.%20Longest%20Increasing%20Subsequence.py |
 | 307 | Range Sum Query - Mutable | https://leetcode.com/problems/range-sum-query-mutable/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/307.%20Range%20Sum%20Query%20-%20Mutable.py |
