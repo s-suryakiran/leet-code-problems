@@ -28,7 +28,7 @@
 | 128 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/128.%20Longest%20Consecutive%20Sequence.py |
 | 141 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/141.%20Linked%20List%20Cycle.py |
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
-| 167 | Two Sum II - Input Array Is Sorted | | |
+| 167 | Two Sum II - Input Array Is Sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | |
 | 169 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/169.%20Majority%20Element.py |
 | 205 | Isomorhic Strings | https://leetcode.com/problems/isomorphic-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/205.%20Isomorphic%20Strings.py |
 | 206 | Reverse Linked List | https://leetcode.com/problems/reverse-linked-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py |
