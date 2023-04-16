@@ -30,6 +30,7 @@
 | 128 | Longest Consecutive Sequence | https://leetcode.com/problems/longest-consecutive-sequence/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/128.%20Longest%20Consecutive%20Sequence.py |
 | 141 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/141.%20Linked%20List%20Cycle.py |
 | 142 | Linked List Cycle II | https://leetcode.com/problems/linked-list-cycle-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py |
+| 150 | Evaluate Reverse Polish Notation | https://leetcode.com/problems/evaluate-reverse-polish-notation/ | |
 | 155 | Min Stack | https://leetcode.com/problems/min-stack/| https://github.com/s-suryakiran/leet-code-problems/blob/main/155.%20Min%20Stack.cpp |
 | 167 | Two Sum II - Input Array Is Sorted | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py |
 | 169 | Majority Element | https://leetcode.com/problems/majority-element/solution/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/169.%20Majority%20Element.py |
