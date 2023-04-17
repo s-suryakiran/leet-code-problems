@@ -10,6 +10,7 @@
 | 15 | 3Sum | https://leetcode.com/problems/3sum/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/15.%203Sum.py |
 | 20 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/20.%20Valid%20Parentheses.py |
 | 21 | Merge Two Sorted Lists | https://leetcode.com/problems/merge-two-sorted-lists/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py |
+| 22 | Generate Parentheses | https://leetcode.com/problems/generate-parentheses/| |
 | 34 | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py |
 | 36 | Valid Sudoku | https://leetcode.com/problems/valid-sudoku/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/36.%20Valid%20Sudoku.py |
 | 49 | Group Anagrams | https://leetcode.com/problems/group-anagrams/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/49.%20Group%20Anagrams.py |
