@@ -1,4 +1,4 @@
-# leet-code-problems
+# leetcode problems
 
 <!-- ROW_COUNT_START -->
 Solved 117 leetcode problems.
