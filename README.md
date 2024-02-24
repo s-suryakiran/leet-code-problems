@@ -1,5 +1,10 @@
 # leet-code-problems
 
+<!-- ROW_COUNT_START -->
+Solved 117 leetcode problems.
+<!-- ROW_COUNT_END -->
+
+
 | Problem No | Problem Name                                                                | Problem URL                                                                                                | Solution URL                                                                                                                                                                 |
 | :--------- | :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Two Sum                                                                     | https://leetcode.com/problems/two-sum/                                                                     | https://github.com/s-suryakiran/leet-code-problems/blob/main/1.%20Two%20Sum.py                                                                                               |
