@@ -1,7 +1,7 @@
 # leetcode problems
 My Leetcode profile - https://leetcode.com/s-suryakiran/
 <!-- ROW_COUNT_START -->
-Solved 131 leetcode problems.
+Solved 132 leetcode problems.
 <!-- ROW_COUNT_END -->
 
 
