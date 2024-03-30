@@ -128,7 +128,7 @@ Solved 141 leetcode problems.
 | 916        | Word Subsets                                                                | https://leetcode.com/problems/word-subsets/                                                                | https://github.com/s-suryakiran/leet-code-problems/blob/main/916.%20Word%20Subsets.py                                                                                        |
 | 933 | Number of Recent Calls | https://leetcode.com/problems/number-of-recent-calls/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/933.%20Number%20of%20Recent%20Calls.cpp |
 | 973 | K Closest Points to Origin | https://leetcode.com/problems/k-closest-points-to-origin/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/973.%20K%20Closest%20Points%20to%20Origin.py |
-| 994 | Rotting Oranges | https://leetcode.com/problems/rotting-oranges/ | |
+| 994 | Rotting Oranges | https://leetcode.com/problems/rotting-oranges/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/994.%20Rotting%20Oranges.py |
 | 1004 | Max Consecutive Ones III | https://leetcode.com/problems/max-consecutive-ones-iii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1004.%20Max%20Consecutive%20Ones%20III.cpp |
 | 1046 | Last Stone Weight | https://leetcode.com/problems/last-stone-weight/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1046.%20Last%20Stone%20Weight.py | 
 | 1071 | Greatest Common Divisor of Strings | https://leetcode.com/problems/greatest-common-divisor-of-strings/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/1071.%20Greatest%20Common%20Divisor%20of%20Strings.cpp |
