@@ -72,7 +72,7 @@ Solved 144 leetcode problems.
 | 206        | Reverse Linked List                                                         | https://leetcode.com/problems/reverse-linked-list/                                                         | https://github.com/s-suryakiran/leet-code-problems/blob/main/206.%20Reverse%20Linked%20List.py                                                                               |
 | 207 | Course Schedule | https://leetcode.com/problems/course-schedule/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/207.%20Course%20Schedule.py |
 | 208 | Implement Trie (Prefix Tree) | https://leetcode.com/problems/implement-trie-prefix-tree | https://github.com/s-suryakiran/leet-code-problems/blob/main/208.%20Implement%20Trie%20(Prefix%20Tree).py |
-| 210 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii/ | |
+| 210 | Course Schedule II | https://leetcode.com/problems/course-schedule-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/210.%20Course%20Schedule%20II.py |
 | 211 | Design Add and Search Words Data Structure | https://leetcode.com/problems/design-add-and-search-words-data-structure/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py |
 | 212 | Word Search II | https://leetcode.com/problems/word-search-ii/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/212.%20Word%20Search%20II.py |
 | 215 | Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/215.%20Kth%20Largest%20Element%20in%20an%20Array.py |
