@@ -126,6 +126,7 @@ Solved 158 leetcode problems.
 | 621 | Task Scheduler | https://leetcode.com/problems/task-scheduler/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/621.%20Task%20Scheduler.py |
 | 637        | Average of Levels in Binary Tree                                            | https://leetcode.com/problems/average-of-levels-in-binary-tree/                                            | https://github.com/s-suryakiran/leet-code-problems/blob/main/637.%20Average%20of%20Levels%20in%20Binary%20Tree.py                                                            |
 | 643 | Maximum Average Subarray I | https://leetcode.com/problems/maximum-average-subarray-i/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/643.%20Maximum%20Average%20Subarray%20I.cpp |
+| 647 | Palindromic Substrings | https://leetcode.com/problems/palindromic-substrings/ | |
 | 663 | Walls and Gates | https://www.lintcode.com/problem/663/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/663.%20Walls%20and%20Gates.py |
 | 684 | Redundant Connection | https://leetcode.com/problems/redundant-connection/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/684.%20Redundant%20Connection.py |
 | 695 | Max Area of Island | https://leetcode.com/problems/max-area-of-island | https://github.com/s-suryakiran/leet-code-problems/blob/main/695.%20Max%20Area%20of%20Island.py |
