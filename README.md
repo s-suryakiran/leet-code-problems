@@ -62,6 +62,7 @@ Solved 162 leetcode problems.
 | 131 | Palindrome Partitioning | https://leetcode.com/problems/palindrome-partitioning/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/131.%20Palindrome%20Partitioning.py |
 | 133 | Clone Graph | https://leetcode.com/problems/clone-graph/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/133.%20Clone%20Graph.py |
 | 138 | Copy List with Random Pointer | https://leetcode.com/problems/copy-list-with-random-pointer/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/138.%20Copy%20List%20with%20Random%20Pointer.cpp |
+| 139 | Word Break | https://leetcode.com/problems/word-break/ | |
 | 141        | Linked List Cycle                                                           | https://leetcode.com/problems/linked-list-cycle/                                                           | https://github.com/s-suryakiran/leet-code-problems/blob/main/141.%20Linked%20List%20Cycle.py                                                                                 |
 | 142        | Linked List Cycle II                                                        | https://leetcode.com/problems/linked-list-cycle-ii/                                                        | https://github.com/s-suryakiran/leet-code-problems/blob/main/142.%20Linked%20List%20Cycle%20II.py                                                                            |
 | 143 | Reorder List | https://leetcode.com/problems/reorder-list/ | https://github.com/s-suryakiran/leet-code-problems/blob/main/143.%20Reorder%20List.py |
